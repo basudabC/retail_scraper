@@ -61,6 +61,7 @@ You’ll see output like:
 
 1. Open your browser and go to:
    👉 **[http://127.0.0.1:5000](http://127.0.0.1:5000)**
+![p_1](https://github.com/user-attachments/assets/bc926fd3-f986-49f7-b894-dc697b8b2d40)
 
 2. Enter a product keyword in the search box (e.g., `"milk"` or `"coffee"`).
 
