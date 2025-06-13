@@ -3,7 +3,7 @@
 
 ## 🛒 Grocery Scraper Dashboard — User Guide
 
-This web application allows you to **search products across Asda, Co-op, and Ocado** using a single input field and view live scraping progress in real-time.
+This web application allows you to **search products across Asda, Co-op, Ocado, morrison, sainburys and tesco** using a single input field and view live scraping progress in real-time.
 
 ---
 
