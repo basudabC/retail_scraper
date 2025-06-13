@@ -12,8 +12,8 @@ This web application allows you to **search products across Asda, Co-op, and Oca
 Make sure you have the following installed:
 
 * **Python 3.11**
-* **Google Chrome**
-* **ChromeDriver** (matching your Chrome version: [https://sites.google.com/a/chromium.org/chromedriver/](https://sites.google.com/a/chromium.org/chromedriver/))
+* **Google Chrome** **Version 137.0.7151.69 (Official Build) (64-bit)**
+* **ChromeDriver Version 137.0.7151.69** (matching your Chrome version: [https://sites.google.com/a/chromium.org/chromedriver/](https://sites.google.com/a/chromium.org/chromedriver/))
 * **Python packages:**
 
   ```bash
